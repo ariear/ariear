@@ -2,7 +2,6 @@
 <h3>I'm a Student , Fullstack Web Developer , Weebs</h3>
 <!--
 **Arie75/Arie75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## I'm a Student , Fullstack Web Developer , Weebs
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I'm a Student , Fullstack Web Developer , Weebs
 <img src="https://github-readme-stats.vercel.app/api?username=arie75">
