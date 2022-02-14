@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Arie
-
+<h3>I'm a Student , Fullstack Web Developer , Weebs</h3>
 <!--
 **Arie75/Arie75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## I'm a Student , Fullstack Web Developer , Weebs
