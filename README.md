@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Arie
-## I'm a Student and Fullstack Web Developer 
+### Hi there 👋 I'm Arie 
 
 - 🌱 I’m currently learning more javascript framework and library 😀
 - 💬 Ask me about Laravel , Vue Js , Tailwind CSS
