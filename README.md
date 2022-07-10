@@ -1,3 +1,3 @@
 ### Hi there 👋 I'm Arie 
  
-<img src="https://github-readme-stats.vercel.app/api?username=arieakbarull">
+<img src="https://github-readme-stats.vercel.app/api?username=ariear">
