@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Arie 
+## Hi there 👋, I'm Arie! 
+---
  
 ![xpv5s9x0fnq61 1](https://user-images.githubusercontent.com/91861324/180802594-a8c5798e-76db-4104-899e-dceb21f5a813.png)
 
