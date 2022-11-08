@@ -1,3 +1,4 @@
+![xpv5s9x0fnq61 1](https://user-images.githubusercontent.com/91861324/180802594-a8c5798e-76db-4104-899e-dceb21f5a813.png)
 <h1 align="center">Hi 👋, I'm Arie</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/91861324/200331182-bf9b1de8-935d-41e4-9e37-c5863ca071da.png" >
