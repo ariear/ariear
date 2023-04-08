@@ -17,11 +17,12 @@
 
 - ⚡ Fun fact **I like watching anime**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/arie" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="arie" width="40" /></a>
 <a href="https://fb.com/arie" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="arie" width="40" /></a>
 <a href="https://instagram.com/arie.js" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="arie.js" width="46" /></a>
+ <a href="https://www.figma.com/@ariar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="ariar" width="46" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
