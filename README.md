@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariear&label=Profile%20views&color=0e75b6&style=flat" alt="ariear" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing**
-
-- 🤝 I’m looking for help with **coding community**
-
-- 💬 Ask me about **TALL , MERN**
-
-- 📫 How to reach me **+62881026233067**
-
-- ⚡ Fun fact **I like watching anime**
-
 <h3 align="left">My Social Media:</h3>
 
 [![Group 26](https://github.com/ariear/ariear/assets/91861324/ebbd51e2-f3e2-4994-80fb-654be6ced256)](https://www.facebook.com/profile.php?id=100070950729478)
