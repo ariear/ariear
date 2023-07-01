@@ -8,13 +8,11 @@
 
 [![Group 26](https://github.com/ariear/ariear/assets/91861324/ebbd51e2-f3e2-4994-80fb-654be6ced256)](https://www.facebook.com/profile.php?id=100070950729478)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ariear.js/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://figma.com/@ariar)
-[![Group 27](https://github.com/ariear/ariear/assets/91861324/f25d73c0-618c-461a-b917-9dec3585f9fd)](https://dribbble.com/ArieRidho)
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,tailwind,react,nextjs,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,php,laravel)](https://skillicons.dev)
 
 [![My Skills2](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
 
